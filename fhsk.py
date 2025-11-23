@@ -6,3 +6,4 @@
                     print(msg)
                     log_entries.append(msg)
 dffhgu
+fghgjg
